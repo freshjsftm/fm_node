@@ -1,5 +1,5 @@
-require('./style.css');
-const Component = require('./Component');
+import './style.css';
+import Component from './Component';
 
 console.log('test');
 const resultOfSumTwoNumber = 5+3;
